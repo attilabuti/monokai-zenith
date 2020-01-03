@@ -1,0 +1,86 @@
+{
+	"name": "monokai-accent",
+	"displayName": "Monokai Accents",
+	"description": "A dark Monokai theme with choice of accent color.",
+	"homepage": "https://github.com/tw-space/monokai-accent",
+	"version": "0.0.3",
+	"author": "tw",
+	"publisher": "tw",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/tw-space/monokai-accent/issues"
+	},
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai +Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Blue-theme.json"
+			},
+			{
+				"label": "Monokai +Graphite",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Graphite-theme.json"
+			},
+			{
+				"label": "Monokai +Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Green-theme.json"
+			},
+			{
+				"label": "Monokai +Orange",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Orange-theme.json"
+			},
+			{
+				"label": "Monokai +Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Pink-theme.json"
+			},
+			{
+				"label": "Monokai +Purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Purple-theme.json"
+			},
+			{
+				"label": "Monokai +Red",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Red-theme.json"
+			},
+			{
+				"label": "Monokai +Yellow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Yellow-theme.json"
+			}
+		]
+	},
+	"icon": "assets/icon/monokai-accent-icon.png",
+	"keywords": [
+		"monokai",
+		"dark",
+		"accent",
+		"blue",
+		"graphite",
+		"green",
+		"orange",
+		"pink",
+		"purple",
+		"red",
+		"yellow"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tw-space/monokai-accent.git"
+	},
+	"__metadata": {
+		"id": "f612160b-22a0-405c-8d8b-c42680d0efe1",
+		"publisherId": "1f1dd0fa-eb79-4c5f-bb71-281743749295",
+		"publisherDisplayName": "tw"
+	}
+}
