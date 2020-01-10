@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.4
+
+- [x] Standardizes debug icon colors
+
 ## 0.0.3
 
 - [x] Changes package name
