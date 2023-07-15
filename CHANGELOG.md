@@ -1,20 +1,24 @@
-# Changelog
+# Change Log
 
-## 0.0.4
+All notable changes to the "Monokai Zenith" extension will be documented in this file.
 
-- [x] Standardizes debug icon colors
+### [0.0.5]
+* Changes package name
+* Improved highlighting for Go, JavaScript, PHP, TypeScript, JavaDoc, JSDoc, PHPDoc, HTML, Blade, EJS, Handlebars, Jinja, mustache, Pug/Jade, Twig, CSS, Less, SCSS, Markdown, Conf, EditorConfig, Ini, JSON, TOML, YAML, Log files, Regex
+* Some UI tweaks
 
-## 0.0.3
+### [0.0.4]
+* Standardizes debug icon colors
 
-- [x] Changes package name
-- [x] Improves markdown highlighting for fenced code blocks
+### [0.0.3]
+* Changes package name
+* Improves markdown highlighting for fenced code blocks
 
-## 0.0.2
+### [0.0.2]
+* Improves markdown token highlighting for template (inline) strings
+* Removes window border
 
-- [x] Improves markdown token highlighting for template (inline) strings
-- [x] Removes window border
-
-## 0.0.1
+### [0.0.1]
 
 A dark Monokai theme with choice of accent color:
 

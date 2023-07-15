@@ -1,14 +1,18 @@
 {
-	"name": "monokai-accent",
-	"displayName": "Monokai Accents",
+	"name": "monokai-zenith",
+	"displayName": "Monokai Zenith",
 	"description": "A dark Monokai theme with choice of accent color.",
-	"homepage": "https://github.com/tw-space/monokai-accent",
-	"version": "0.0.4",
-	"author": "tw",
-	"publisher": "tw",
+	"homepage": "https://github.com/attilabuti/monokai-zenith",
+	"version": "0.0.5",
+	"author": {
+		"name": "Attila Buti",
+		"email": "hello@attilabuti.com",
+		"url": "https://attilabuti.com"
+	},
+	"publisher": "attilabuti",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/tw-space/monokai-accent/issues"
+		"url": "https://github.com/attilabuti/monokai-zenith/issues"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
@@ -19,51 +23,58 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Monokai +Blue",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai+Blue-theme.json"
-			},
-			{
-				"label": "Monokai +Graphite",
+				"label": "Monokai Zenith (Graphite)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Monokai+Graphite-theme.json"
 			},
 			{
-				"label": "Monokai +Green",
+				"label": "Monokai Zenith (Blue)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Blue-theme.json"
+			},
+			{
+				"label": "Monokai Zenith (Green)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Monokai+Green-theme.json"
 			},
 			{
-				"label": "Monokai +Orange",
+				"label": "Monokai Zenith (Yellow)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Yellow-theme.json"
+			},
+			{
+				"label": "Monokai Zenith (Orange)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Monokai+Orange-theme.json"
 			},
 			{
-				"label": "Monokai +Pink",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai+Pink-theme.json"
-			},
-			{
-				"label": "Monokai +Purple",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai+Purple-theme.json"
-			},
-			{
-				"label": "Monokai +Red",
+				"label": "Monokai Zenith (Red)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Monokai+Red-theme.json"
 			},
 			{
-				"label": "Monokai +Yellow",
+				"label": "Monokai Zenith (Pink)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai+Yellow-theme.json"
+				"path": "./themes/Monokai+Pink-theme.json"
+			},
+			{
+				"label": "Monokai Zenith (Purple)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai+Purple-theme.json"
 			}
 		]
 	},
-	"icon": "assets/icon/monokai-accent-icon.png",
+	"icon": "assets/icon/monokai-zenith-icon.png",
+	"galleryBanner": {
+		"color": "#242424",
+		"theme": "dark"
+	},
 	"keywords": [
 		"monokai",
 		"dark",
+		"theme",
+		"color-theme",
+		"zenith",
 		"accent",
 		"blue",
 		"graphite",
@@ -76,11 +87,6 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tw-space/monokai-accent.git"
-	},
-	"__metadata": {
-		"id": "f612160b-22a0-405c-8d8b-c42680d0efe1",
-		"publisherId": "1f1dd0fa-eb79-4c5f-bb71-281743749295",
-		"publisherDisplayName": "tw"
+		"url": "https://github.com/attilabuti/monokai-zenith.git"
 	}
 }
